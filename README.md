@@ -163,16 +163,21 @@ src/
 
 ---
 
-## ⚙️ Installation
+## 🔑 Setup Instructions
 
-git clone YOUR_GITHUB_REPOSITORY_URL
+1. Clone the repository:
+
+```bash
+git clone https://github.com/abhi9-git-hub/ecommerce-website.git
+```
+
+2. Open project folder:
+
+```bash
 cd ecommerce
-npm install
-npm start
+```
 
-The application will run on:
-
-http://localhost:3000
+3. Open index.html in browser
 
 ---
 
