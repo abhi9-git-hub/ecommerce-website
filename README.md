@@ -1,18 +1,24 @@
-🛒 E-Commerce Website
+# 🛒 E-Commerce Website
 
 A modern and responsive E-Commerce Web Application built using React.js, Tailwind CSS, Firebase, Cloudinary and Razorpay.
 
 The application provides a complete shopping experience including user authentication, product browsing, cart management, checkout, online payment and order management.
 
-🌐 Live Demo
+---
+
+## 🌐 Live Demo
 
 🔗 Live Website: YOUR_LIVE_WEBSITE_URL
 
-💻 GitHub Repository
+---
+
+## 💻 GitHub Repository
 
 🔗 Source Code: YOUR_GITHUB_REPOSITORY_URL
 
-🚀 Features
+---
+
+## 🚀 Features
 
 - 🔐 User Registration & Login
 - 🔥 Firebase Authentication
@@ -31,7 +37,9 @@ The application provides a complete shopping experience including user authentic
 - 📱 Responsive UI
 - ❌ 404 Page Handling
 
-🛠️ Tech Stack
+---
+
+## 🛠️ Tech Stack
 
 - Frontend: React.js, JavaScript, HTML, CSS
 - Styling: Tailwind CSS
@@ -43,7 +51,9 @@ The application provides a complete shopping experience including user authentic
 - Icons: React Icons
 - Version Control: Git & GitHub
 
-🔄 Application Flow
+  ---
+
+## 🔄 Application Flow
 
 Login / Signup
       ↓
@@ -65,7 +75,9 @@ Order Confirmation
       ↓
    My Orders
 
-🔥 Firebase
+   ---
+
+## 🔥 Firebase
 
 Firebase is used for:
 
@@ -76,7 +88,9 @@ Firebase is used for:
 - Order data
 - User-specific data management
 
-💳 Payment Integration
+  ---
+
+## 💳 Payment Integration
 
 The project uses Razorpay Test Mode for payment processing.
 
@@ -96,7 +110,9 @@ Order Confirmation
 
 «Note: Razorpay is currently configured for testing/demo purposes.»
 
-☁️ Cloudinary
+---
+
+## ☁️ Cloudinary
 
 Cloudinary is used for product image uploading and image management.
 
@@ -110,7 +126,9 @@ Image URL
      ↓
 Product Data → Firestore
 
-📁 Project Structure
+---
+
+## 📁 Project Structure
 
 src/
 │
@@ -143,7 +161,9 @@ src/
 ├── App.css
 └── index.js
 
-⚙️ Installation
+---
+
+## ⚙️ Installation
 
 git clone YOUR_GITHUB_REPOSITORY_URL
 cd ecommerce
@@ -154,7 +174,9 @@ The application will run on:
 
 http://localhost:3000
 
-🧠 Key Learning
+---
+
+## 🧠 Key Learning
 
 Through this project, I gained practical experience in:
 
@@ -171,7 +193,9 @@ Through this project, I gained practical experience in:
 - Responsive UI development
 - Git & GitHub
 
-👨‍💻 Developer
+  ---
+
+## 👨‍💻 Developer
 
 Abhinav Tripathi
 
