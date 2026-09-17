@@ -229,7 +229,7 @@ const addtocart = async() => {
             <div className='warranty flex flex-col justify-center items-center'>
                  <div className='img-circle w-[40px] h-[40px] flex justify-center items-center
               border rounded-[60px] bg-white'>
-                      <img src='https://cdn-icons-png.flaticon.com/512/4919/4919970.png'></img>
+                      <img src='https://cdn-icons-png.flaticon.com/512/4919/4919970.png' alt='icon'></img>
                  </div>
                  <p className='text-[13px] font-semibold text-center text-green-900'>{product.warranty} year warranty</p>
             </div>
@@ -237,7 +237,7 @@ const addtocart = async() => {
             <div className='replacement flex flex-col justify-center items-center'>
                 <div className='img-circle w-[40px] h-[40px] flex justify-center items-center
               border rounded-[60px] bg-white'>
-                     <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH61OKaTV4d3lmFCTmUGW_bhaDbnHEndhsCzRQMiKBJA&s=10'></img>
+                     <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH61OKaTV4d3lmFCTmUGW_bhaDbnHEndhsCzRQMiKBJA&s=10' alt=''></img>
                 </div>
                 <p className='text-[13px] font-semibold text-center text-green-900'>10 days replacement</p>
             </div>
