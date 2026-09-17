@@ -162,10 +162,24 @@ git clone https://github.com/abhi9-git-hub/ecommerce-website.git
 2. Open project folder:
 
 ```bash
-cd ecommerce
+cd ecommerce-website
 ```
 
-3. Open index.html in browser
+3. Install dependencies
+
+   ```bash
+   npm install
+   ```
+4. Start the development sever
+
+   ```bash
+   npm start
+   ```
+   ### The application will run at:
+
+   ```bash
+   https://localhost:3000
+   ```
 
 ---
 
