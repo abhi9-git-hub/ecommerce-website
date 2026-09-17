@@ -6,12 +6,6 @@ The application provides a complete shopping experience including user authentic
 
 ---
 
-## 🌐 Live Demo
-
-🔗 Live Website: YOUR_LIVE_WEBSITE_URL
-
----
-
 ## 💻 GitHub Repository
 
 🔗 Source Code: YOUR_GITHUB_REPOSITORY_URL
@@ -203,13 +197,11 @@ Through this project, I gained practical experience in:
 ## 👨‍💻 Developer
 
 Abhinav Tripathi
-
-B.Tech – Computer Science & Engineering (AI/ML)
-
-Web Developer
-
-Skills
-
-"React.js" "JavaScript" "HTML" "CSS" "Tailwind CSS" "Firebase" "Firestore" "Cloudinary" "Git" "GitHub"
+GitHub: https://github.com/abhi9-git-hub/ecommerce.git
 
 ---
+
+## 🌐 Live Demo
+
+🔗 Live Website: YOUR_LIVE_WEBSITE_URL
+
