@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react'
 import { Layout } from './Layout'
 import { auth, db } from '../firebaseConfigs/FirebaseConfigs'
-import { collection, getDocs, query, where, doc, updateDoc } from 'firebase/firestore'
+import { collection, getDocs, query, where } from 'firebase/firestore'
 import { addDoc } from 'firebase/firestore'
 
 
@@ -23,7 +23,7 @@ export const AddProduct = () => {
 
     function GetCurrentUser() {
         const [user, setUser] = useState('')
-        const userCollectionRef = collection(db, "user")
+        
     
         useEffect(() => {
           auth.onAuthStateChanged((userlogged) => {
@@ -67,10 +67,7 @@ export const AddProduct = () => {
         }
       }
         const loggeduser = GetCurrentUser();
-        // if(loggeduser) {
-        //   console.log(loggeduser[0].email)
-        // }
-
+      
      const uploadImageToCloudinary = async () => {
     const data = new FormData();
 
@@ -226,7 +223,7 @@ export const AddProduct = () => {
                                 p-[3px] bg-gradient-to-br from-purple-700 to-blue-500
                                  hover:bg-gradient-to-bl focus:ring-4 focus:outline-none
                                   focus:ring-blue-950 dark:focus:ring-blue-800
-                                  leading-5">Purple to Blue cursor-pointer'>Add</button>
+                                  leading-5 cursor-pointer'>Add</button>
 
             </form>
          </div> : 

@@ -6,9 +6,7 @@ import img2 from "./assets/bannerimages/2.png";
 import img3 from "./assets/bannerimages/3.png";
 import img4 from "./assets/bannerimages/4.png";
 import img5 from "./assets/bannerimages/5.png";
-import img6 from "./assets/bannerimages/6.png";
-import img7 from "./assets/bannerimages/7.png";
-import img8 from "./assets/bannerimages/8.png";
+
 
 export const Banner = () => {
   return (

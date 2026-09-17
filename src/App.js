@@ -8,7 +8,6 @@ import { Cart } from './components/Cart';
 import {UserProfile}  from './components/UserProfile'
 import { AddProduct } from './components/AddProduct';
 import { AllProductPage } from './components/some-product-components/AllProductPage';
-import { ProductContainer } from './components/some-product-components/ProductContainer';
 import { SpecificProductPage } from './components/some-product-components/SpecificProductPage';
 import Checkout from './components/some-product-components/Checkout';
 import { Confirmation } from './components/some-product-components/Confirmation';
