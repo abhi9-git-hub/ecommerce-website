@@ -197,7 +197,7 @@ Through this project, I gained practical experience in:
 ## 👨‍💻 Developer
 
 Abhinav Tripathi
-GitHub: https://github.com/abhi9-git-hub/ecommerce.git
+GitHub: https://github.com/abhi9-git-hub/ecommerce-website.git
 
 ---
 
