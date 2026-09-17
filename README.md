@@ -118,6 +118,7 @@ Product Data → Firestore
 
 ## 📁 Project Structure
 
+```text
 src/
 │
 ├── components/
