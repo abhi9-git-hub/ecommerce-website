@@ -43,6 +43,7 @@ The application provides a complete shopping experience including user authentic
 
 ## 🔄 Application Flow
 
+```text
 Login / Signup
       ↓
    Home Page
@@ -62,6 +63,7 @@ Razorpay Payment
 Order Confirmation
       ↓
    My Orders
+```
 
    ---
 
@@ -116,6 +118,7 @@ Cloudinary Upload
 Image URL
      ↓
 Product Data → Firestore
+```
 
 ---
 
@@ -152,6 +155,7 @@ src/
 ├── App.js
 ├── App.css
 └── index.js
+```
 
 ---
 
