@@ -6,12 +6,6 @@ The application provides a complete shopping experience including user authentic
 
 ---
 
-## 💻 GitHub Repository
-
-🔗 Source Code: YOUR_GITHUB_REPOSITORY_URL
-
----
-
 ## 🚀 Features
 
 - 🔐 User Registration & Login
