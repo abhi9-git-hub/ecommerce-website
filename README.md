@@ -82,6 +82,7 @@ Firebase is used for:
 
 The project uses Razorpay Test Mode for payment processing.
 
+```text
 Checkout
    ↓
 Shipping Details
@@ -104,6 +105,7 @@ Order Confirmation
 
 Cloudinary is used for product image uploading and image management.
 
+```text
 Select Image
      ↓
 Image Validation
@@ -149,49 +151,6 @@ src/
 ├── App.js
 ├── App.css
 └── index.js
-
-
-## 📁 Project Structure
-
-```text
-ecommerce-website/
-│
-├── public/
-│
-├── src/
-│   │
-│   ├── components/
-│   │   ├── AddProduct.js
-│   │   ├── Banner.js
-│   │   ├── Cart.js
-│   │   ├── CartCard.js
-│   │   ├── Home.js
-│   │   ├── Layout.js
-│   │   ├── Login.js
-│   │   ├── Navbar.js
-│   │   ├── Signup.js
-│   │   └── UserProfile.js
-│   │
-│   ├── product-components/
-│   │   ├── AllProductPage.js
-│   │   ├── Checkout.js
-│   │   ├── Confirmation.js
-│   │   ├── MyOrder.js
-│   │   ├── ProductContainer.js
-│   │   ├── ProductSlider.js
-│   │   ├── SliderProductCard.js
-│   │   └── SpecificProductPage.js
-│   │
-│   ├── firebaseConfigs/
-│   │   └── FirebaseConfigs.js
-│   │
-│   ├── App.js
-│   ├── App.css
-│   └── index.js
-│
-├── package.json
-├── tailwind.config.js
-└── README.md
 
 ---
 
