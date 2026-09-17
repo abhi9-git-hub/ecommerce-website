@@ -96,6 +96,7 @@ Payment ID
 Order Stored in Firestore
    ↓
 Order Confirmation
+```
 
 «Note: Razorpay is currently configured for testing/demo purposes.»
 
